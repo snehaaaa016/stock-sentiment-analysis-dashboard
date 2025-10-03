@@ -1,0 +1,6 @@
+streamlit
+yfinance
+requests
+vaderSentiment
+python-dotenv
+plotly
